@@ -1,2 +1,3 @@
+This is just a mirror of old main branch.
 
-Look at `dev` not `main` as component rework is happening
+Use [Primary repo](https://github.com/welsh-revenue-authority/visitor-levy-prototypes) for new prototyping work.
