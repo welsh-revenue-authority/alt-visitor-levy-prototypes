@@ -1,0 +1,12 @@
+{
+  "nextLabel": "Continue",
+  "backLabel": "Back",
+  "title": "Sign in",
+  "emailPage": {
+    "emailLabel": "Email"
+  },
+  "codePage": {
+    "codeLabel": "Enter verification code",
+    "codeDescription": "We’ve emailed you 8 digit verification code"
+  }
+}
